@@ -1,0 +1,5 @@
+This is my first Python testing file.
+I have learned so far 5 commands: git init
+                                  git add
+                                  git status
+                                  git commit -m 
