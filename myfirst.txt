@@ -3,3 +3,9 @@ I have learned so far 5 commands: git init
                                   git add
                                   git status
                                   git commit -m 
+Not only that I also learned new commands like 
+                                  git push
+                                  git remote add
+                                  git restore
+                                  git clone
+                                  forking
